@@ -1,1 +1,3 @@
 # Text-Based-Paint
+
+As part of my Programming & Problem Solving (ECS 36A) class, we had to create a text-based version of paint coded in C. Features implemented include quit, help, write, add, delete, resize, save, and load. Technical concepts embedded include pointers, structs, optional command line parameters, and make files. To run, download the files included and type "make" in the compiler in order to compile the files. After that, you may run the game by typing "./connectn.out" + the number of rows + the number of columns + the number of pieces in a row needed to win. Ex: "./connectn.out 6 5 3".
